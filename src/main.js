@@ -73,7 +73,7 @@ ipcMain.on('product:new', (e, newProduct) => {
 
 //Crear submenu
 const templateMenu = [{
-  label: 'File',
+  label: 'Opciones',
   submenu: [
     {
       label: 'Nuevo producto',
